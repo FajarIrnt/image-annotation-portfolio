@@ -4,9 +4,6 @@
 
 A personal portfolio project demonstrating manual image annotation using Roboflow. The project focuses on drawing bounding boxes around everyday objects and assigning the appropriate class labels for object detection.
 
-## Tools
-- Roboflow Annotate
-- GitHub
 
 ## Dataset
 - 20 images
@@ -43,6 +40,10 @@ A personal portfolio project demonstrating manual image annotation using Roboflo
 ![Roboflow dataset overview](screenshots/roboflow_dataset_overview.png)
 
 ![Roboflow classes](screenshots/roboflow_classes.png)
+
+## Tools
+- Roboflow
+- Pexels
 
 ## Project Scope
 This is a personal learning portfolio focused on image annotation and quality checking. Model training and deployment are outside the scope of this project.
