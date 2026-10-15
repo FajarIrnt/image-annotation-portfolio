@@ -37,14 +37,11 @@ A personal portfolio project demonstrating manual image annotation using Roboflo
 
 ## Screenshots
 
-### Annotation Example
-![Roboflow annotation example](roboflow_annotation_example.png)
+![Roboflow annotation example](screenshots/roboflow_annotation_example.png)
 
-### Dataset Overview
-![Roboflow dataset overview](roboflow_dataset_overview.png)
+![Roboflow dataset overview](screenshots/roboflow_dataset_overview.png)
 
-### Object Classes
-![Roboflow classes](roboflow_classes.png)
+![Roboflow classes](screenshots/roboflow_classes.png)
 
 ## Project Scope
 This is a personal learning portfolio focused on image annotation and quality checking. Model training and deployment are outside the scope of this project.
