@@ -38,61 +38,63 @@ A personal portfolio project demonstrating manual image annotation using Roboflo
 - Checked class label consistency.
 - Avoided guessing unclear or heavily occluded objects.
 
+
 ## Examples
 
 ### Sample 1
 
 **Bounding Box Annotation**
 
-![Sample 1 Bounding Box](roboflow_annotation_example_1.png)
+![Sample 1 Bounding Box](screenshots/roboflow_annotation_example_1.png)
 
 **Object Classes**
 
-![Sample 1 Classes](roboflow_classes_examples_1.png)
+![Sample 1 Classes](screenshots/roboflow_classes_examples_1.png)
 
 ### Sample 2
 
 **Bounding Box Annotation**
 
-![Sample 2 Bounding Box](roboflow_annotation_example_2.png)
+![Sample 2 Bounding Box](screenshots/roboflow_annotation_example_2.png)
 
 **Object Classes**
 
-![Sample 2 Classes](roboflow_classes_examples_2.png)
+![Sample 2 Classes](screenshots/roboflow_classes_examples_2.png)
 
 ### Sample 3
 
 **Bounding Box Annotation**
 
-![Sample 3 Bounding Box](roboflow_annotation_example_3.png)
+![Sample 3 Bounding Box](screenshots/roboflow_annotation_example_3.png)
 
 **Object Classes**
 
-![Sample 3 Classes](roboflow_classes_examples_3.png)
+![Sample 3 Classes](screenshots/roboflow_classes_examples_3.png)
 
 ### Sample 4
 
 **Bounding Box Annotation**
 
-![Sample 4 Bounding Box](roboflow_annotation_example_4.png)
+![Sample 4 Bounding Box](screenshots/roboflow_annotation_example_4.png)
 
 **Object Classes**
 
-![Sample 4 Classes](roboflow_classes_examples_4.png)
+![Sample 4 Classes](screenshots/roboflow_classes_examples_4.png)
 
 ### Sample 5
 
 **Bounding Box Annotation**
 
-![Sample 5 Bounding Box](roboflow_annotation_example_5.png)
+![Sample 5 Bounding Box](screenshots/roboflow_annotation_example_5.png)
 
 **Object Classes**
 
-![Sample 5 Classes](roboflow_classes_examples_5.png)
+![Sample 5 Classes](screenshots/roboflow_classes_examples_5.png)
 
 ### Dataset Overview
 
-![Roboflow Dataset Overview](roboflow_dataset_overview.png)
+![Roboflow Dataset Overview](screenshots/roboflow_dataset_overview.png)
+
 
 ## Tools
 
