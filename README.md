@@ -1,7 +1,8 @@
-# Everyday Object Detection — Image Annotation Portfolio
+# Image Annotation Portfolio — Everyday Objects
 
 ## Project Overview
-A personal portfolio project demonstrating manual image annotation using Roboflow.
+
+A personal portfolio project demonstrating manual image annotation using Roboflow. The project focuses on drawing bounding boxes around everyday objects and assigning the appropriate class labels for object detection.
 
 ## Tools
 - Roboflow Annotate
